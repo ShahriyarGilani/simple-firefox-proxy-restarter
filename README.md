@@ -1,4 +1,4 @@
-# Simple Proxy Restarter
+# Simple Firefox Proxy Restarter
 
 A lightweight Firefox extension designed to reset proxy settings and restore a preferred proxy mode with a single click.
 
